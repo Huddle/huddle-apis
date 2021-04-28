@@ -1,4 +1,1 @@
-[Documentation for the Huddle API](https://github.com/Huddle/huddle-apis/wiki)
-
-clone wiki locally 
-`git clone git@github.com:Huddle/huddle-apis.wiki.git`
+Documentation for the Huddle API can be found in the [Wiki](https://github.com/Huddle/huddle-apis/wiki) that accompanies this repository.
